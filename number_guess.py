@@ -8,8 +8,8 @@ import random
 # The user makes a decision whether they would like to have a number
 # or have the computer guess the number
 def welcome():
-    print("""Welcome to the High Low game.
-    This is a number guessing game with 2 different modes of play.""")
+    print("Welcome to the High Low game."
+    "\nThis is a number guessing game with 2 different modes of play.")
     while True:
         print("""Your choices:
         1 : AI vs Player (AI guess)
